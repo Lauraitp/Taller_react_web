@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/Taller_react_web/precache-manifest.3121fd1e38f2dca96e81e9b8da99e465.js"
+  "/Taller_react_web/precache-manifest.2d06994fba28fe6119c98c9733e104fb.js"
 );
 
 workbox.clientsClaim();

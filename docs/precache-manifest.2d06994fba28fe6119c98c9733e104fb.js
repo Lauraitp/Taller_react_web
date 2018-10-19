@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/Taller_react_web/static/js/runtime~main.981ad9f3.js"
   },
   {
-    "revision": "764d7c0e61694a04ba3a",
-    "url": "/Taller_react_web/static/js/main.764d7c0e.chunk.js"
+    "revision": "45dab0b7bdae910a2c40",
+    "url": "/Taller_react_web/static/js/main.45dab0b7.chunk.js"
   },
   {
     "revision": "5511a812470eeb82e813",
     "url": "/Taller_react_web/static/js/1.5511a812.chunk.js"
   },
   {
-    "revision": "764d7c0e61694a04ba3a",
-    "url": "/Taller_react_web/static/css/main.b641fe38.chunk.css"
+    "revision": "45dab0b7bdae910a2c40",
+    "url": "/Taller_react_web/static/css/main.7b073c31.chunk.css"
   },
   {
-    "revision": "a89616455b043f0da8ba13f66a56aba1",
+    "revision": "280ff7f0607a5dc28acafb8864e5a54d",
     "url": "/Taller_react_web/index.html"
   }
 ];
